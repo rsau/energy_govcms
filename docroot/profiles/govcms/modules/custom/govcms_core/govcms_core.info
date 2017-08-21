@@ -1,0 +1,11 @@
+name = Common functionality for govCMS
+package = govCMS core
+description = Provides common functionality required by other govCMS modules
+core = 7.x
+
+; Information added by Drupal.org packaging script on 2017-07-10
+version = "7.x-2.13"
+core = "7.x"
+project = "govcms"
+datestamp = "1499652250"
+
